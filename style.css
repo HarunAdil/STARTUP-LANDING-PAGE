@@ -49,10 +49,3 @@ hr {
   border-width: 4px;
 }
 
-.centered-hr {
-  display: block;
-  margin: 17px auto;
-  width: 13%;
-  border-width: 3px;
-}
-
